@@ -80,4 +80,4 @@ ENV LANG       zh_CN.UTF-8
 ENV LANGUAGE   zh_CN:zh
 
 #userage
-#docker build -t supermy/debian:7 mydebian
+#docker build -t supermy/docker-debian:7 mydebian
