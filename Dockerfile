@@ -1,7 +1,7 @@
 FROM    debian:latest
 
 #2015-01-24修订,中文语言
-MAINTAINER JamesMo <springclick@gmail.com>
+MAINTAINER supermy <springclick@gmail.com>
 
 #RUN sed -i '1,3d'   /etc/apt/sources.list
 
@@ -80,4 +80,4 @@ ENV LANG       zh_CN.UTF-8
 ENV LANGUAGE   zh_CN:zh
 
 #userage
-#docker build -t jamesmo/debian:7 mydebian
+#docker build -t supermy/debian:7 mydebian
